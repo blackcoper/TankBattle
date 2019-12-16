@@ -1,0 +1,95 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 8.19.15.4352]
+    Renderer: Intel(R) Iris(TM) Graphics 5100
+    Vendor:   Intel
+    VRAM:     1536 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\IFacebook.dll (this message is harmless)
+Loading Z:\Users\gofar\lab\TankBattle\TankBattle_Data\Managed\IFacebook.dll into Unity Child Domain
+- Completed reload, in  0.331 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+This machine has a private IP address
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+UnloadTime: 3.504800 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 814.
+Total: 2.729700 ms (FindLiveObjects: 0.051100 ms CreateObjectMapping: 0.049600 ms MarkObjects: 0.423300 ms  DeleteObjects: 0.250300 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CarControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CarControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CarControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 5.094000 ms
+This machine has a private IP address
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 632.
+Total: 2.107900 ms (FindLiveObjects: 0.040900 ms CreateObjectMapping: 0.072100 ms MarkObjects: 0.448700 ms  DeleteObjects: 0.214700 ms)
+
+UnloadTime: 5.267300 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 814.
+Total: 5.628900 ms (FindLiveObjects: 0.048900 ms CreateObjectMapping: 0.031600 ms MarkObjects: 0.426900 ms  DeleteObjects: 4.048900 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CarControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CarControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CarControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 2.751100 ms
+This machine has a private IP address
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 633.
+Total: 1.764600 ms (FindLiveObjects: 0.041900 ms CreateObjectMapping: 0.019500 ms MarkObjects: 0.381700 ms  DeleteObjects: 0.201000 ms)
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+ 
+(Filename:  Line: 246)
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+ 
+(Filename:  Line: 246)
+
